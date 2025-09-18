@@ -53,15 +53,18 @@ FUTURE_DS_INTERNSHIP
 ## 📸 Sample Visuals
 
 Task 1:
+
 <img width="693" height="527" alt="download1" src="https://github.com/user-attachments/assets/bf83428f-e3c2-47ca-ad8b-faa345789334" />
 <img width="859" height="486" alt="download2" src="https://github.com/user-attachments/assets/7f491b68-a543-4cdd-868b-43eb69680921" />
 <img width="501" height="504" alt="download3" src="https://github.com/user-attachments/assets/c26df099-57e0-4ac1-885b-05141485972e" />
 
 Task 2:
+
 <img width="678" height="470" alt="download4" src="https://github.com/user-attachments/assets/683e61b9-a1e2-4081-ad22-809c04f9c94e" />
 <img width="695" height="470" alt="download5" src="https://github.com/user-attachments/assets/141a9e90-c542-4ee3-a5ba-0568d4614868" />
 
 Task 3:
+
 <img width="536" height="393" alt="download6" src="https://github.com/user-attachments/assets/2e490d24-f786-4457-a691-aa696e5f969c" />
 
 
